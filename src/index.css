@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'Archivo Narrow', sans-serif;
+  }
+  
+
+  .h-\[60px\] {
+    height: 30px  !important;
+}
+
+
+.Dropdown-control {
+    color: #6dadd3 !important;
+}
+
+
+.Dropdown-arrow {
+    border-color: #020a12 transparent transparent !important;
+    border-width: 8px 7px !important;
+} 
+.Dropdown-option.is-selected {
+    color:#6dadd3  !important;
+}
+
+.Dropdown-option {
+    color: #6dadd3!important;
+} 
+
+
+.Dropdown-placeholder.is-selected{
+    margin-left: 20px !important;
+}
+
+
+.ftzeFU {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-wrap: balance !important;
+}
+
+style .attribute {
+    color: rgb(64, 205, 64);
+    font-size: 20px;
+    stroke-width: 10px !important;
+}
+
+body {
+    font-family: 'Archivo Narrow', sans-serif;
+}
+
+.fJDmGk {
+    display: flex;
+    width: 100%;
+    color: rgba(0, 0, 0, 0.733);
+    font-size: 18px !important;
+    font-weight: 500;
+}
+
+/* THIS WHOLE CODE IS THE CUSTOM CSS */
